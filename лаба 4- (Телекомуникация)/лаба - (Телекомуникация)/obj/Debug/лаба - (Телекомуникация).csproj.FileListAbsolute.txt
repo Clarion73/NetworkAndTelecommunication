@@ -1,0 +1,10 @@
+C:\Users\sneza\OneDrive\Рабочий стол\лаба - (Телекомуникация)\лаба - (Телекомуникация)\obj\Debug\лаба - (Телекомуникация).csproj.AssemblyReference.cache
+C:\Users\sneza\OneDrive\Рабочий стол\лаба - (Телекомуникация)\лаба - (Телекомуникация)\obj\Debug\лаба____Телекомуникация_.Properties.Resources.resources
+C:\Users\sneza\OneDrive\Рабочий стол\лаба - (Телекомуникация)\лаба - (Телекомуникация)\obj\Debug\лаба - (Телекомуникация).csproj.GenerateResource.cache
+C:\Users\sneza\OneDrive\Рабочий стол\лаба - (Телекомуникация)\лаба - (Телекомуникация)\obj\Debug\лаба - (Телекомуникация).csproj.CoreCompileInputs.cache
+C:\Users\sneza\OneDrive\Рабочий стол\лаба - (Телекомуникация)\лаба - (Телекомуникация)\bin\Debug\лаба - (Телекомуникация).exe.config
+C:\Users\sneza\OneDrive\Рабочий стол\лаба - (Телекомуникация)\лаба - (Телекомуникация)\bin\Debug\лаба - (Телекомуникация).exe
+C:\Users\sneza\OneDrive\Рабочий стол\лаба - (Телекомуникация)\лаба - (Телекомуникация)\bin\Debug\лаба - (Телекомуникация).pdb
+C:\Users\sneza\OneDrive\Рабочий стол\лаба - (Телекомуникация)\лаба - (Телекомуникация)\obj\Debug\лаба - (Телекомуникация).exe
+C:\Users\sneza\OneDrive\Рабочий стол\лаба - (Телекомуникация)\лаба - (Телекомуникация)\obj\Debug\лаба - (Телекомуникация).pdb
+C:\Users\sneza\OneDrive\Рабочий стол\лаба - (Телекомуникация)\лаба - (Телекомуникация)\obj\Debug\лаба____Телекомуникация_.Form1.resources
